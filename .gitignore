@@ -6,5 +6,5 @@
 /tmp
 env
 **/config/prod/*
-/src/lib/
-/src/vendor/
+/lib/
+/vendor/
