@@ -1,0 +1,10 @@
+.idea
+.vscode
+*.sqlite
+/*.csv
+/*.zip
+/tmp
+env
+**/config/prod/*
+/src/lib/
+/src/vendor/
